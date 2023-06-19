@@ -1,11 +1,16 @@
 # Sistema de tienda online unlimited technology
+<img src="./img/logounlimited.png" alt="preview" width="600px" />
 ##Documentacion de proyecto
 [https://docs.google.com/document/d/18U-zUun12RSKxHIK0gICxQijbWC4x82DYVBt32r8U38/edit?usp=sharing](https://docs.google.com/document/d/18U-zUun12RSKxHIK0gICxQijbWC4x82DYVBt32r8U38/edit?usp=sharing)
 ### Proceso del flujo de prototipos
 [https://docs.google.com/presentation/d/1zc-uNsreGZAwkMaOjdlT5sHPh3BNac0M/edit?usp=sharing&ouid=100857122207839432652&rtpof=true&sd=true](https://docs.google.com/presentation/d/1zc-uNsreGZAwkMaOjdlT5sHPh3BNac0M/edit?usp=sharing&ouid=100857122207839432652&rtpof=true&sd=true)
 
 
+
 ###### El proyecto de la tienda online es una aplicación web de comercio electrónico de código abierto que tiene como objetivo
+<img src="./img/Captura.PNG" alt="preview" width="600px" />
+<img src="./img/Captura2.PNG" alt="preview" width="600px" />
+<img src="./img/Captura3.PNG" alt="preview" width="600px" />
 proporcionar una experiencia de carrito de compras óptima tanto para los comerciantes como para los clientes. 
 Este proyecto está escrito en PHP y utiliza una base de datos MySQL para el almacenamiento de datos. 
 Además, hace uso del framework Bootstrap para asegurar un diseño altamente receptivo tanto en el front-end como en el back-end. 
