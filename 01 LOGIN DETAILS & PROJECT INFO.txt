@@ -1,8 +1,0 @@
-
-**Database Name: shopci**
-
-Email	: admin@gmail.com
-Password: admin
-
-
-
